@@ -19,7 +19,7 @@ class SignUp extends Component {
             // confirmPassword: ""
         }
     }
-
+//merge
     handleSubmit = async event => {
         event.preventDefault();
         console.log(this.state);
